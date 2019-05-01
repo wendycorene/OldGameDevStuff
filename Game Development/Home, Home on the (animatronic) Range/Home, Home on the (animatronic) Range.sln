@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CA77B921-4688-CF40-C004-8CF51B8549F7}") = "Home, Home on the (animatronic) Range", "Assembly-CSharp.csproj", "{2D73D4CD-092F-10BC-5F05-227657BA7B61}"
+EndProject
+Project("{CA77B921-4688-CF40-C004-8CF51B8549F7}") = "Home, Home on the (animatronic) Range", "Assembly-CSharp-Editor.csproj", "{14545B6F-5CE9-A772-84DF-38BDBE75C47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D73D4CD-092F-10BC-5F05-227657BA7B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D73D4CD-092F-10BC-5F05-227657BA7B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D73D4CD-092F-10BC-5F05-227657BA7B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D73D4CD-092F-10BC-5F05-227657BA7B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14545B6F-5CE9-A772-84DF-38BDBE75C47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14545B6F-5CE9-A772-84DF-38BDBE75C47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14545B6F-5CE9-A772-84DF-38BDBE75C47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14545B6F-5CE9-A772-84DF-38BDBE75C47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

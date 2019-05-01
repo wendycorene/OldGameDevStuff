@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7E365D10-3731-ECBF-02B5-1B31FCD04576}") = "Eloe Artful Rock Dodger", "Assembly-CSharp.csproj", "{ECE006D7-CBC6-6190-2D45-326174DD2E26}"
+EndProject
+Project("{7E365D10-3731-ECBF-02B5-1B31FCD04576}") = "Eloe Artful Rock Dodger", "Assembly-CSharp-Editor.csproj", "{CC11B4D8-2478-06C1-BC06-16EF4560ED74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE006D7-CBC6-6190-2D45-326174DD2E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE006D7-CBC6-6190-2D45-326174DD2E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE006D7-CBC6-6190-2D45-326174DD2E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE006D7-CBC6-6190-2D45-326174DD2E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC11B4D8-2478-06C1-BC06-16EF4560ED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC11B4D8-2478-06C1-BC06-16EF4560ED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC11B4D8-2478-06C1-BC06-16EF4560ED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC11B4D8-2478-06C1-BC06-16EF4560ED74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

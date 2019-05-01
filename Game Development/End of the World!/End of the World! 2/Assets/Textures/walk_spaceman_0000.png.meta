@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: 1247bf24327769041ac24d6f534324bc
+timeCreated: 1487304336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: walk_spaceman_0000_0
+    21300002: walk_spaceman_0000_1
+    21300004: walk_spaceman_0000_2
+    21300006: walk_spaceman_0000_3
+    21300008: walk_spaceman_0000_4
+    21300010: walk_spaceman_0000_5
+    21300012: walk_spaceman_0000_6
+    21300014: walk_spaceman_0000_7
+    21300016: walk_spaceman_0000_8
+    21300018: walk_spaceman_0000_9
+    21300020: walk_spaceman_0000_10
+    21300022: walk_spaceman_0000_11
+    21300024: walk_spaceman_0000_12
+    21300026: walk_spaceman_0000_13
+    21300028: walk_spaceman_0000_14
+    21300030: walk_spaceman_0000_15
+    21300032: walk_spaceman_0000_16
+    21300034: walk_spaceman_0000_17
+    21300036: walk_spaceman_0000_18
+    21300038: walk_spaceman_0000_19
+    21300040: walk_spaceman_0000_20
+    21300042: walk_spaceman_0000_21
+    21300044: walk_spaceman_0000_22
+    21300046: walk_spaceman_0000_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk_spaceman_0000_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 83
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 83
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 84
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 84
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 83
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 83
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 83
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 84
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_14
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 9
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 9
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_16
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 8
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 8
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 9
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_19
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 9
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 30
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walk_spaceman_0000_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

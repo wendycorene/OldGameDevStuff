@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C79BD160-4868-273E-9A7F-3ED1F7CD180C}") = "End of the World! 1", "Assembly-CSharp.csproj", "{031BB8D6-F2EA-ADAC-630E-F12B21A7EBC8}"
+EndProject
+Project("{C79BD160-4868-273E-9A7F-3ED1F7CD180C}") = "End of the World! 1", "Assembly-CSharp-Editor.csproj", "{7AE94EB5-54C1-EDFA-E878-D808407534C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031BB8D6-F2EA-ADAC-630E-F12B21A7EBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031BB8D6-F2EA-ADAC-630E-F12B21A7EBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031BB8D6-F2EA-ADAC-630E-F12B21A7EBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031BB8D6-F2EA-ADAC-630E-F12B21A7EBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AE94EB5-54C1-EDFA-E878-D808407534C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE94EB5-54C1-EDFA-E878-D808407534C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE94EB5-54C1-EDFA-E878-D808407534C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE94EB5-54C1-EDFA-E878-D808407534C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

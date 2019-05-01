@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: d37d2be7182bf4d4f97edfe604e7bf3a
+timeCreated: 1489786606
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numberedCards_0
+    21300002: numberedCards_1
+    21300004: numberedCards_2
+    21300006: numberedCards_3
+    21300008: numberedCards_4
+    21300010: numberedCards_5
+    21300012: numberedCards_6
+    21300014: numberedCards_7
+    21300016: numberedCards_8
+    21300018: numberedCards_9
+    21300020: numberedCards_10
+    21300022: numberedCards_11
+    21300024: numberedCards_12
+    21300026: numberedCards_13
+    21300028: numberedCards_14
+    21300030: numberedCards_15
+    21300032: numberedCards_16
+    21300034: numberedCards_17
+    21300036: numberedCards_18
+    21300038: numberedCards_19
+    21300040: numberedCards_20
+    21300042: numberedCards_21
+    21300044: numberedCards_22
+    21300046: numberedCards_23
+    21300048: numberedCards_24
+    21300050: numberedCards_25
+    21300052: numberedCards_26
+    21300054: numberedCards_27
+    21300056: numberedCards_28
+    21300058: numberedCards_29
+    21300060: numberedCards_30
+    21300062: numberedCards_31
+    21300064: numberedCards_32
+    21300066: numberedCards_33
+    21300068: numberedCards_34
+    21300070: numberedCards_35
+    21300072: numberedCards_36
+    21300074: numberedCards_37
+    21300076: numberedCards_38
+    21300078: numberedCards_39
+    21300080: numberedCards_40
+    21300082: numberedCards_41
+    21300084: numberedCards_42
+    21300086: numberedCards_43
+    21300088: numberedCards_44
+    21300090: numberedCards_45
+    21300092: numberedCards_46
+    21300094: numberedCards_47
+    21300096: numberedCards_48
+    21300098: numberedCards_49
+    21300100: numberedCards_50
+    21300102: numberedCards_51
+    21300104: numberedCards_52
+    21300106: numberedCards_53
+    21300108: numberedCards_54
+    21300110: numberedCards_55
+    21300112: numberedCards_56
+    21300114: numberedCards_57
+    21300116: numberedCards_58
+    21300118: numberedCards_59
+    21300120: numberedCards_60
+    21300122: numberedCards_61
+    21300124: numberedCards_62
+    21300126: numberedCards_63
+    21300128: numberedCards_64
+    21300130: numberedCards_65
+    21300132: numberedCards_66
+    21300134: numberedCards_67
+    21300136: numberedCards_68
+    21300138: numberedCards_69
+    21300140: numberedCards_70
+    21300142: numberedCards_71
+    21300144: numberedCards_72
+    21300146: numberedCards_73
+    21300148: numberedCards_74
+    21300150: numberedCards_75
+    21300152: numberedCards_76
+    21300154: numberedCards_77
+    21300156: numberedCards_78
+    21300158: numberedCards_79
+    21300160: numberedCards_80
+    21300162: numberedCards_81
+    21300164: numberedCards_82
+    21300166: numberedCards_83
+    21300168: numberedCards_84
+    21300170: numberedCards_85
+    21300172: numberedCards_86
+    21300174: numberedCards_87
+    21300176: numberedCards_88
+    21300178: numberedCards_89
+    21300180: numberedCards_90
+    21300182: numberedCards_91
+    21300184: numberedCards_92
+    21300186: numberedCards_93
+    21300188: numberedCards_94
+    21300190: numberedCards_95
+    21300192: numberedCards_96
+    21300194: numberedCards_97
+    21300196: numberedCards_98
+    21300198: numberedCards_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: numberedCards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6053.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 6053.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6053.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 6053.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 6053.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5735.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5735.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5735.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5735.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5735.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5417.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5417.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5417.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5417.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5417.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5099.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 5099.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5099.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 5099.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_19
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5099.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4781.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4781.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4781.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4781.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4781.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4463.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4463.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4463.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_28
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4463.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4463.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4145.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4145.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4145.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4145.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4145.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3827.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3827.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3827.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3827.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3827.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3509.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3509.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3509.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3509.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3509.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3191.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3191.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3191.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_48
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3191.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_49
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3191.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2873.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2873.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2873.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2873.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_54
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2873.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2555.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2555.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2555.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_58
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2555.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2555.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2237.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2237.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2237.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2237.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_64
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2237.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1919.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1919.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1919.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1919.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_69
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1919.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1601.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1601.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_72
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1601.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_73
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1601.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1601.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1283.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_76
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1283.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1283.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_78
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1283.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_79
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1283.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 965.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_81
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 965.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 965.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_83
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 965.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_84
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 965.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 647.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 647.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_88
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 647.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 647.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 329.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_92
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 329.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_93
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 329.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 329.6
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11.600006
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 11.600006
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 11.600006
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_98
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 11.600006
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: numberedCards_99
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 11.600006
+        width: 224.6
+        height: 318.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

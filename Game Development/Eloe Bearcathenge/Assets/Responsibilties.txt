@@ -1,0 +1,27 @@
+Responsibilities Text Document
+
+
+This Text shall be modified by all members
+
+NOTE: if there is a specific task that you'd like to add please add it.
+
+
+
+
+Task																					Person
+
+UI		
+
+DONE :: Monolith Initialization (well color monolith colors)							Wendy
+
+DONE :: Monolith Gen.																	Wendy
+
+Changing monolith details
+
+Collision Detection with appropriate details
+
+modify monoliths at end pertaining to condition
+
+Sound
+
+Done:: UI Controller											Upashana 

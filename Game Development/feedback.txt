@@ -1,0 +1,5 @@
+From Wendy:
+	I'm not sure what I'm supposed to do.  I can only walk around the room.  And I can walk outside of the room (into the blue area).  I see there are some other animations, but I don't know what to do to make those happen.
+
+	The sprites look well together.
+-----

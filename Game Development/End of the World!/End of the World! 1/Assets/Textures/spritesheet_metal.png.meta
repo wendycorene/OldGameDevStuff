@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 79d425bb50cae44409b2050876510f76
+timeCreated: 1487287334
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elementMetal000.png
+    21300002: elementMetal001.png
+    21300004: elementMetal002.png
+    21300006: elementMetal003.png
+    21300008: elementMetal004.png
+    21300010: elementMetal005.png
+    21300012: elementMetal006.png
+    21300014: elementMetal007.png
+    21300016: elementMetal008.png
+    21300018: elementMetal009.png
+    21300020: elementMetal010.png
+    21300022: elementMetal011.png
+    21300024: elementMetal012.png
+    21300026: elementMetal013.png
+    21300028: elementMetal014.png
+    21300030: elementMetal015.png
+    21300032: elementMetal016.png
+    21300034: elementMetal017.png
+    21300036: elementMetal018.png
+    21300038: elementMetal019.png
+    21300040: elementMetal020.png
+    21300042: elementMetal021.png
+    21300044: elementMetal022.png
+    21300046: elementMetal023.png
+    21300048: elementMetal024.png
+    21300050: elementMetal025.png
+    21300052: elementMetal026.png
+    21300054: elementMetal027.png
+    21300056: elementMetal028.png
+    21300058: elementMetal029.png
+    21300060: elementMetal030.png
+    21300062: elementMetal031.png
+    21300064: elementMetal032.png
+    21300066: elementMetal033.png
+    21300068: elementMetal034.png
+    21300070: elementMetal035.png
+    21300072: elementMetal036.png
+    21300074: elementMetal037.png
+    21300076: elementMetal038.png
+    21300078: elementMetal039.png
+    21300080: elementMetal040.png
+    21300082: elementMetal041.png
+    21300084: elementMetal042.png
+    21300086: elementMetal043.png
+    21300088: elementMetal044.png
+    21300090: elementMetal045.png
+    21300092: elementMetal046.png
+    21300094: elementMetal047.png
+    21300096: elementMetal048.png
+    21300098: elementMetal049.png
+    21300100: elementMetal050.png
+    21300102: elementMetal051.png
+    21300104: elementMetal052.png
+    21300106: elementMetal053.png
+    21300108: elementMetal054.png
+    21300110: elementMetal055.png
+    21300112: elementMetal056.png
+    21300114: elementMetal057.png
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elementMetal000.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal001.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 314
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal002.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 954
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal003.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 24
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal004.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 884
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal005.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 24
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal006.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 604
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal007.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 94
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal008.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 164
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal009.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 674
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal010.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 304
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal011.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 374
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal012.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 884
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal013.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 814
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal014.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 734
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal015.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 384
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal016.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal017.png
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 234
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal018.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 884
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal019.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal020.png
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 584
+        width: 70
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal021.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 664
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal022.png
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 34
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal023.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 454
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal024.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal025.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 444
+        width: 70
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal026.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 524
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal027.png
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 374
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal028.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 234
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal029.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 954
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal030.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 234
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal031.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 594
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal032.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal033.png
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 174
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal034.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 24
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal035.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal036.png
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 804
+        width: 70
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal037.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 304
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal038.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 34
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal039.png
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 744
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal040.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal041.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 804
+        width: 70
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal042.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 94
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal043.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 244
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal044.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 534
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal045.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 174
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal046.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 767
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal047.png
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 828
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal048.png
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 971
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal049.png
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 314
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal050.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 744
+        width: 140
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal051.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 220
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal052.png
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 444
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal053.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 814
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal054.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 220
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal055.png
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 14
+        width: 70
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal056.png
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 314
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementMetal057.png
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 664
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
